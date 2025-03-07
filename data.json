@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "20250307163144649800",
+    "time": "2025-03-07 16:31:44",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "布伦特原油日内涨幅达1.00%，现报69.94美元/桶。",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": [
+      {
+        "id": 93057447,
+        "type": "quotes",
+        "title": "布伦特原油",
+        "symbol": "UKOIL.GOODS",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307163140928800",
+    "time": "2025-03-07 16:31:40",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "美元指数DXY日内跌超0.50%，现报103.68。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": [
+      {
+        "id": 85923031,
+        "type": "quotes",
+        "title": "美元指数",
+        "symbol": "DXY.NYF",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307163105921800",
+    "time": "2025-03-07 16:31:05",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "在岸人民币兑美元3月7日16:30收盘报7.2382，较上一交易日上涨46点。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307163020776800",
+    "time": "2025-03-07 16:30:20",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "市场波动剧烈，投资者需注意哪几个信号？",
+      "source": "",
+      "content": "全球央行持续购金对冲政策风险，美元信用裂缝渐显，黄金重获货币锚定地位？全球黄金秩序是否面临重构挑战？点击查看！<font class=\"important-text\"></font>",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": [
+      {
+        "id": 1024,
+        "link": "https://v.jin10.com/details.html?id=21547",
+        "type": "link",
+        "title": "相关链接"
+      }
+    ]
+  },
+  {
+    "id": "20250307163018768800",
+    "time": "2025-03-07 16:30:18",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "<a  href=\"https://v.jin10.com/details.html?id=21547\"  target=\"_blank\"><img  src=\"https://img.jin10.com/misc/25/03/ECQ83xpUReokO70gvxmot.jpg/lite\"  height=\"120\"  /></a>",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307163013027800",
+    "time": "2025-03-07 16:30:13",
+    "type": 0,
+    "data": {
+      "content": "中国香港2月外汇储备 4164亿美元，前值4215亿美元。"
+    },
+    "important": 0,
+    "tags": null,
+    "channel": [
+      1,
+      3
+    ],
+    "remark": null
+  },
+  {
+    "id": "20250307163011023800",
+    "time": "2025-03-07 16:30:11",
+    "type": 1,
+    "data": {
+      "flag": 0,
+      "i18n": null,
+      "name": "外汇储备",
+      "star": 2,
+      "type": 0,
+      "unit": "亿美元",
+      "actual": 4164,
+      "affect": 0,
+      "i18n_i": {
+        "en": {
+          "name": "Foreign Exchange Reserves",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "es": {
+          "name": "Reservas de divisas",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "fr": {
+          "name": "Réserves de change",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "id": {
+          "name": "Cadangan Devisa Asing",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "ja": {
+          "name": "外国為替準備金",
+          "unit": "B",
+          "country": "香港"
+        },
+        "ko": {
+          "name": "외환 보유액",
+          "unit": "B",
+          "country": "홍콩"
+        },
+        "ms": {
+          "name": "Simpanan Tukaran Asing",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "pt": {
+          "name": "Reservas de câmbio",
+          "unit": "B",
+          "country": "Hong Kong"
+        },
+        "ru": {
+          "name": "Валютные резервы",
+          "unit": "B",
+          "country": "Гонконг"
+        },
+        "vi": {
+          "name": "Dự trữ ngoại hối",
+          "unit": "B",
+          "country": "Hồng Kông"
+        }
+      },
+      "country": "中国香港",
+      "data_id": 1101432,
+      "measure": null,
+      "revised": null,
+      "classify": [
+        18,
+        82,
+        123
+      ],
+      "multiple": null,
+      "previous": "4215",
+      "pub_time": "2025-03-07 16:30:00",
+      "ahead_url": "",
+      "consensus": null,
+      "video_url": null,
+      "stock_logo": "",
+      "num_decimal": 3,
+      "show_affect": 1,
+      "time_period": "2月",
+      "indicator_id": 563,
+      "compare_period": null,
+      "push_affect_text": null
+    },
+    "important": 1,
+    "tags": null,
+    "channel": [
+      1,
+      3
+    ],
+    "remark": null
+  },
+  {
+    "id": "20250307162913969800",
+    "time": "2025-03-07 16:29:13",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【中航成飞：公司部分内部信息化平台接入了DeepSeek】金十数据3月7日讯，中航成飞在互动平台表示，公司部分内部信息化平台接入了DeepSeek，目前已实现知识问答、流程调度等功能，有助于工作效率的提升，未来公司将不断探索新技术带来新的应用场景。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162823809800",
+    "time": "2025-03-07 16:28:23",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "据悉日本央行希望监测1月份加息和美国政策的影响，该行认为薪资谈判的进展在预期之内。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162736810800",
+    "time": "2025-03-07 16:27:36",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "市场消息：日本央行据悉倾向于在3月份的会议上维持基准利率不变。",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      1,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162625241800",
+    "time": "2025-03-07 16:26:25",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【航宇微：正在开展RISC-V架构SOC芯片的研制】金十数据3月7日讯，航宇微于互动平台表示，公司正在开展RISC-V架构SOC芯片的研制，基于RISC-V IP核研发新一代宇航SOC芯片产品。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162542721800",
+    "time": "2025-03-07 16:25:42",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "现货黄金向上触及2920美元/盎司，日内涨0.31%。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": [
+      {
+        "id": 17862360,
+        "type": "quotes",
+        "title": "现货黄金",
+        "symbol": "XAUUSD.GOODS",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307162529964800",
+    "time": "2025-03-07 16:25:29",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "日本经济产业省：经济产业大臣武藤容治将于3月9日至11日访问美国，与相关高级官员讨论双边经济关系。",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      1,
+      2,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162512279800",
+    "time": "2025-03-07 16:25:12",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "财政部",
+      "content": "财政部拟发行2025年记账式贴现（十六期）国债（182天），本期国债竞争性招标面值总额550亿元。",
+      "source_link": "https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxzjs/202503/t20250307_3959505.htm"
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162429755800",
+    "time": "2025-03-07 16:24:29",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【领湃科技：公司未与现代汽车签订订单合同】金十数据3月7日讯，就“2025年1月来自现代汽车的45亿合同是真的吗？”问题，领湃科技3月7日在互动平台回复称，公司未与现代汽车签订订单合同。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162304845800",
+    "time": "2025-03-07 16:23:04",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【热带气旋规则被打破？澳大利亚布里斯班黄金海岸50年来首迎飓风】金十数据3月7日讯，半个多世纪来首个将在澳大利亚东南部沿海地区登陆的飓风正在逼近该国第三大城市布里斯班和旅游胜地黄金海岸。据路透社报道，这个名为“阿尔弗雷德”（Alfred）的热带风暴预计将于当地时间3月7日晚或8日早上在布里斯班附近以2级飓风（相当于强台风）规模登陆。澳大利亚气象局称，这对昆士兰州首府布里斯班来说是一次“非常罕见的事件”。该地上一次遭受飓风袭击还是在1974年。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162217017800",
+    "time": "2025-03-07 16:22:17",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "红星新闻",
+      "content": "【字节跳动最新通报：2024年辞退违规员工353人，移交司法机关追究刑事责任39人】金十数据3月7日讯，有消息称，近日，字节跳动在内部发布了反腐通报。2024年全年，字节跳动共辞退违规员工353人，移交司法机关追究刑事责任39人。3月7日，字节跳动的相关负责人证实，相关数字属实。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162126512800",
+    "time": "2025-03-07 16:21:26",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "美元兑瑞郎USD/CHF日内跌超0.50%，现报0.8791。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 50491199,
+        "type": "quotes",
+        "title": "美元/瑞郎",
+        "symbol": "USDCHF.NY$",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307162029334800",
+    "time": "2025-03-07 16:20:29",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【恒指调整权重比例 多股尾盘出现异动】金十数据3月7日讯，恒生指数调整权重比例，腾讯控股(00700.HK)、阿里巴巴(09988.HK)、小米集团(01810.HK)、中芯国际(00981.HK)尾盘等出现异动。此前恒生系列指数公布季度调整结果，由于恒指和恒生科技指数限定个股权重最高不能超过8%，所以指数里因为近期涨幅较大导致权重超过8%的个股在调整执行日时，被动资金会被动“降低”权重，涉及阿里、腾讯、汇丰、小米、中芯等。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307162001986800",
+    "time": "2025-03-07 16:20:01",
+    "type": 0,
+    "data": {
+      "vip_title": "小麦技术分析：必须守在这一支撑位上方，才能延续涨势",
+      "content": "",
+      "lock": true,
+      "vip_level": 1,
+      "vip_desc": "VIP专享快讯，解锁直达"
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161824269800",
+    "time": "2025-03-07 16:18:24",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "21财经",
+      "content": "【辟谣“代工华为一体机”，卓翼科技回应】金十数据3月7日讯，3月7日，卓翼科技录得12天8板后大跌8.53%，报每股14.05元，总市值达79.66亿元。3月6日晚间，有投资者在互动平台提问，“近期有市场传闻称卓翼科技三月底开始代工生产华为一体机？”对此，卓翼科技表示，公司没有代工华为一体机，目前暂无代工一体机的计划。记者就此以投资者身份致电卓翼科技，接线证券部人士回应，公司与华为合作超十年，产品主要聚焦于网络通讯及IoT（物联网）领域。因合作涉及保密协议，具体业务内容不便透露。目前，公司并无代工一体机业务的计划。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161740322800",
+    "time": "2025-03-07 16:17:40",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【立华股份：2月肉猪销售收入3.26亿元，同比增长443.33%】金十数据3月7日讯，立华股份公告，2025年2月销售肉鸡3286.25万只，销售收入7.69亿元，毛鸡销售均价10.37元/公斤，环比变动分别为-27.15%、-34.50%、-11.97%，同比变动分别为8.25%、-14.17%、-23.53%。2月销售肉猪17.68万头，销售收入3.26亿元，肉猪销售均价15.1元/公斤，环比变动分别为9.07%、3.82%、-6.33%，同比变动分别为398.03%、443.33%、2.86%。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161722863800",
+    "time": "2025-03-07 16:17:22",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【景嘉微：公司显示在金融违约公示名单属于票据系统技术原因所致】金十数据3月7日讯，就“为何公司又上了金融违约公示名单？”问题，景嘉微在互动平台回复称，公司生产经营正常，商业汇票可以正常开具，资金储备充足，上述情况属于票据系统技术原因所致。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161708514800",
+    "time": "2025-03-07 16:17:08",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【信音电子：2024年净利润7043万元，同比下降2.92%】金十数据3月7日讯，信音电子公告，2024年度实现营业收入7.87亿元，同比增长1.67%；归属于上市公司股东的净利润7043万元，同比下降2.92%；扣除非经常性损益后的归属于上市公司股东的净利润7155万元，同比下降11.56%。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161640947800",
+    "time": "2025-03-07 16:16:40",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "万凯新材3月7日在互动平台回复称，公司暂未开展与蜜雪冰城的直接合作。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161620255800",
+    "time": "2025-03-07 16:16:20",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【港股收评：“京东系”绩后全线收跌 京东跌5%】金十数据3月7日讯，港股今日早盘低开后震荡走高，午后冲高后持续回落，恒指收跌0.57%，报24231.3点。恒生科技指数收跌0.52%，报6037.44点。截至今日收盘，恒指大市成交额3831.66亿港元。盘面上，体育用品股、军工股涨幅居前，DeepSeek概念股熄火，比特币概念股下跌，京东系绩后全线走低，科技股涨跌不一。个股方面，京东物流(02618.HK)跌14.6%，京东健康(06618.HK)跌超12%，京东(09618.HK)跌近5%，长和(00001.HK)跌4%，舜宇光学科技(02382.HK)、中芯国际(00981.HK)跌超3%；李宁(02331.HK)涨近5%，快手(01024.HK)涨4.77%，小鹏汽车(09868.HK)涨4.6%。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": [
+      {
+        "id": 95566225,
+        "type": "quotes",
+        "title": "比特币/美元",
+        "symbol": "BTCUSD.RCT",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307161524499800",
+    "time": "2025-03-07 16:15:24",
+    "type": 0,
+    "data": {
+      "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/e671d135-7dc5-8024-85cb-1741335309964.jpg",
+      "title": "",
+      "source": "",
+      "content": "金十图示：2025年03月07日（周五）沪深港通南向资金流向",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 58414495,
+        "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/e671d135-7dc5-8024-85cb-1741335309964.jpg",
+        "url": "https://miniprogram.jin10.com?path=/pages/redirect/redirect&attr_id=2&category=CapitalFlows_2&id=36413&type=1",
+        "icon": "https://cdn.jin10.com/assets/minipro/icons/longPic.png",
+        "name": "沪深港通南向资金流向",
+        "time": "2025-03-07 16:15:00",
+        "type": "miniProgram",
+        "thumb": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/e671d135-7dc5-8024-85cb-1741335309964-thumb.jpg",
+        "title": "",
+        "status": -1,
+        "attr_id": 2,
+        "secType": 1,
+        "category": "CapitalFlows_2",
+        "fantiPic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/e671d135-7dc5-8024-85cb-1741335309964_fanti.jpg",
+        "objectID": 36413,
+        "thumb_sm": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/e671d135-7dc5-8024-85cb-1741335309964-thumb.jpg",
+        "category_name": "沪深港通南向资金流向"
+      }
+    ]
+  },
+  {
+    "id": "20250307161521161800",
+    "time": "2025-03-07 16:15:21",
+    "type": 2,
+    "data": {
+      "pic": "https://img.jin10.com/news/25/01/u0ia6KDKoyCERytQy8eTx.png/lite",
+      "tag": "热点头条",
+      "link": "https://xnews.jin10.com/details/166298",
+      "title": "特朗普首次“公开背刺”马斯克！",
+      "source": "",
+      "content": "随着对失业规模的担忧加剧，特朗普削权马斯克，要求美国内阁“留下你们想要的所有员工”，这是对马斯克裁员计划的首次抵制。点击查看...",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161454971800",
+    "time": "2025-03-07 16:14:54",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "<b>WTI原油日内涨超1.00%，现报66.69美元/桶；布伦特原油涨0.9%。</b>",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": [
+      {
+        "id": 21120734,
+        "type": "quotes",
+        "title": "WTI原油",
+        "symbol": "USOIL.GOODS",
+        "content": "请升级APP后查看"
+      },
+      {
+        "id": 61395466,
+        "type": "quotes",
+        "title": "布伦特原油",
+        "symbol": "UKOIL.GOODS",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307161428491800",
+    "time": "2025-03-07 16:14:28",
+    "type": 0,
+    "data": {
+      "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f3577b65-f1b0-8068-f4fa-1741335231240.jpg",
+      "title": "",
+      "source": "",
+      "content": "金十图示：2025年03月07日（周五）中国2月末官方储备资产变化一览，黄金储备连续第四个月增加",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 24936807,
+        "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f3577b65-f1b0-8068-f4fa-1741335231240.jpg",
+        "url": "https://miniprogram.jin10.com?path=/pages/redirect/redirect&attr_id=0&category=ForeignExchange&id=36412&type=1",
+        "icon": "https://cdn.jin10.com/assets/minipro/icons/longPic.png",
+        "name": "中国外汇储备",
+        "time": "2025-03-07 16:13:00",
+        "type": "miniProgram",
+        "thumb": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f3577b65-f1b0-8068-f4fa-1741335231240-thumb.jpg",
+        "title": "",
+        "status": -1,
+        "attr_id": 0,
+        "secType": 1,
+        "category": "ForeignExchange",
+        "fantiPic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f3577b65-f1b0-8068-f4fa-1741335231240_fanti.jpg",
+        "objectID": 36412,
+        "thumb_sm": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f3577b65-f1b0-8068-f4fa-1741335231240-thumb.jpg",
+        "category_name": "中国外汇储备"
+      }
+    ]
+  },
+  {
+    "id": "20250307161416966800",
+    "time": "2025-03-07 16:14:16",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【澳大利亚1月对美国出口黄金创纪录】金十数据3月7日讯， 澳大利亚1月对美国出口黄金创纪录，潜在关税担忧助推黄金运往纽约金库。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161328083800",
+    "time": "2025-03-07 16:13:28",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "瑞银：预计今年钯金的目标价为每盎司1000美元。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161314103800",
+    "time": "2025-03-07 16:13:14",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "<b>沙特将4月售往亚洲的阿拉伯轻质原油设为较阿曼/迪拜均价升水3.50美元/桶。</b>",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161304576800",
+    "time": "2025-03-07 16:13:04",
+    "type": 0,
+    "data": {
+      "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f0d62ca7-176b-8a01-f8a8-1741335096944.jpg",
+      "title": "",
+      "source": "",
+      "content": "金十图示：2025年03月07日（周五）全球股市指数-欧洲市场（盘初）",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 57161874,
+        "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f0d62ca7-176b-8a01-f8a8-1741335096944.jpg",
+        "url": "https://miniprogram.jin10.com?path=/pages/redirect/redirect&attr_id=3&category=StockIndex_3&id=36411&type=1",
+        "icon": "https://cdn.jin10.com/assets/minipro/icons/longPic.png",
+        "name": "全球股市指数-欧洲市场",
+        "time": "2025-03-07 16:11:00",
+        "type": "miniProgram",
+        "thumb": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f0d62ca7-176b-8a01-f8a8-1741335096944-thumb.jpg",
+        "title": "",
+        "status": -1,
+        "attr_id": 3,
+        "secType": 1,
+        "category": "StockIndex_3",
+        "fantiPic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f0d62ca7-176b-8a01-f8a8-1741335096944_fanti.jpg",
+        "objectID": 36411,
+        "thumb_sm": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/f0d62ca7-176b-8a01-f8a8-1741335096944-thumb.jpg",
+        "category_name": "全球股市指数-欧洲市场"
+      }
+    ]
+  },
+  {
+    "id": "20250307161209469800",
+    "time": "2025-03-07 16:12:09",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "瑞银：预计钯在贵金属领域将继续表现落后。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161152566800",
+    "time": "2025-03-07 16:11:52",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "瑞银：预计今年钯金的供应缺口约为30万盎司，占需求的3%。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161140156800",
+    "time": "2025-03-07 16:11:40",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "金十数据整理：每日投行/机构观点梳理（2025-03-07）",
+      "source": "",
+      "content": "<b>国外</b><br/><span class=\"section-news\">1. 巴克莱：欧元兑美元可能涨势有限。</span><br/><span class=\"section-news\">2. 晨星集团：预计到今年年中欧洲央行还将降息两次。</span><br/><span class=\"section-news\">3. 巴克莱：欧洲央行决议将受军事开支和美国关税影响。</span><br/><span class=\"section-news\">4. 荷兰国际：墨西哥关税谈判或占先机，墨西哥比索有望跑赢加元。</span><br/><span class=\"section-news\">5. 荷兰国际：欧洲央行未来降息路径不明朗。</span><br/><span class=\"section-news\">6. 潘森宏观：英国企业未来一年通胀预期升至3.1%。</span><br/><span class=\"section-news\">7.摩根大通：如果德国财政支出计划刺激经济增长，欧洲央行可能放慢降息步伐。</span><br/><span class=\"section-news\">8. 野村证券：日本今年的最高工资涨幅可能达到5.26%。</span><br/><b>国内</b><br/><span class=\"section-news\">1. 华泰证券：美联储或在3月会议放缓缩表。</span><br/><span class=\"section-news\">2. 中信建投：财政政策力度更加积极，供给侧优化有望成为重点。</span><br/><span class=\"section-news\">3. 中信建投：财政政策力度更加积极，供给侧优化有望成为重点。</span><br/><span class=\"section-news\">4. 华泰证券：Agent应用已进入工程化落地关键阶段，有望在2025年进入放量元年。</span><br/><span class=\"section-news\">5. 天风证券：AI医疗方面关注具有高质量数据、稀缺性应用场景和多模态融合数据的相关方向。</span>",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 30676733,
+        "url": "https://miniprogram.jin10.com?path=/pages/redirect/redirect&id=53193&type=8",
+        "icon": "https://cdn-news.jin10.com/assets/common/7cf84551-8bad-4619-acfd-a14210fa04d9.png/lite",
+        "type": "miniProgram",
+        "thumb": "https://img.jin10.com/mp/25/03/GedZvlVgrxeAPhRSLS8os.jpg/lite",
+        "title": "金十数据整理：每日投行/机构观点梳理（2025-03-07）",
+        "secType": 8,
+        "objectID": 53193
+      },
+      {
+        "id": 46752404,
+        "type": "quotes",
+        "title": "美元/墨西哥比索",
+        "symbol": "USDMXN.NY$",
+        "content": "请升级APP后查看"
+      },
+      {
+        "id": 96079346,
+        "type": "quotes",
+        "title": "欧元/美元",
+        "symbol": "EURUSD.FXCM",
+        "content": "请升级APP后查看"
+      }
+    ]
+  },
+  {
+    "id": "20250307161124329800",
+    "time": "2025-03-07 16:11:24",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "香港恒生指数3月7日（周五）收盘下跌138.41点，跌幅0.57%，报24231.3点；<br/>香港恒生科技指数3月7日（周五）收盘下跌31.33点，跌幅0.52%，报6037.44点；<br/>国企指数3月7日（周五）收盘下跌24.06点，跌幅0.27%，报8914.03点；<br/>红筹指数3月7日（周五）收盘上涨15.86点，涨幅0.41%，报3917.07点。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161112834800",
+    "time": "2025-03-07 16:11:12",
+    "type": 2,
+    "data": {
+      "pic": "https://img.jin10.com/news/24/10/a5tj_ptYHZC4sWr9bPDqG.jpg/lite",
+      "tag": "非农",
+      "link": "https://xnews.jin10.com/details/165849",
+      "title": "决战非农！数据与特朗普能否掀起“捞金”狂潮？",
+      "source": "",
+      "content": "衰退担忧悄然升温，本份非农数据能否证明美国经济凛冬将至？亦或就业市场再次迎来好消息？（内含美股分情景推演）",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307161104667800",
+    "time": "2025-03-07 16:11:04",
+    "type": 0,
+    "data": {
+      "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/7026a824-3acf-8226-3b38-1741334999880.jpg",
+      "title": "",
+      "source": "",
+      "content": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": [
+      {
+        "id": 79754609,
+        "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/7026a824-3acf-8226-3b38-1741334999880.jpg",
+        "url": "https://miniprogram.jin10.com?path=/pages/redirect/redirect&attr_id=0&category=ChinaGoldReserve&id=36409&type=1",
+        "icon": "https://cdn.jin10.com/assets/minipro/icons/longPic.png",
+        "name": "中国黄金及外汇储备",
+        "time": "2025-03-07 16:09:00",
+        "type": "miniProgram",
+        "thumb": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/7026a824-3acf-8226-3b38-1741334999880-thumb.jpg",
+        "title": "",
+        "status": -1,
+        "attr_id": 0,
+        "secType": 1,
+        "category": "ChinaGoldReserve",
+        "fantiPic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/7026a824-3acf-8226-3b38-1741334999880_fanti.jpg",
+        "objectID": 36409,
+        "thumb_sm": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/7026a824-3acf-8226-3b38-1741334999880-thumb.jpg",
+        "category_name": "中国黄金及外汇储备"
+      }
+    ]
+  },
+  {
+    "id": "20250307161058069800",
+    "time": "2025-03-07 16:10:58",
+    "type": 0,
+    "data": {
+      "pic": "https://flash-scdn.jin10.com/flash_dli/jin_fanti/img/6fbabc06-c8aa-bd44-b73a-1741335017636.jpg",
+      "title": "",
+      "source": "",
+      "content": "金十图示：2025年03月07日（周五）香港恒生指数期货技术面一览（5小时图）",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160918734800",
+    "time": "2025-03-07 16:09:18",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "港股收盘，恒指收跌0.57%，科指收跌0.52%，“京东系”全线收跌，京东物流(02618.HK)跌14.6%，京东健康(06618.HK)跌超12%，京东(09618.HK)跌近5%。",
+      "vip_level": 0,
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      3,
+      4,
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160810977800",
+    "time": "2025-03-07 16:08:10",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【期货热点追踪】铁矿石期货结束九连跌，但周线仍录得下跌，粗钢压减小作文频传，铁矿石价格的下一步是涨是跌？",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      1,
+      2
+    ],
+    "remark": [
+      {
+        "id": 1024,
+        "link": "https://qihuo.jin10.com/articleDetail.html?id=1061659&comments=all",
+        "type": "link",
+        "title": "相关链接"
+      }
+    ]
+  },
+  {
+    "id": "20250307160718064800",
+    "time": "2025-03-07 16:07:18",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "外汇局",
+      "content": "【外汇局：2月末外汇储备规模为32272亿美元】金十数据3月7日讯，国家外汇管理局统计数据显示，截至2025年2月末，我国外汇储备规模为32272亿美元，较1月末上升182亿美元，升幅为0.57%。2025年2月，受主要经济体宏观政策和经济数据、主要央行货币政策预期等因素影响，美元指数下跌，全球金融资产价格涨跌互现。汇率折算和资产价格变化等因素综合作用，当月外汇储备规模上升。我国经济基础稳、优势多、韧性强、潜能大，有利于外汇储备规模保持基本稳定。",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "remark": [
+      {
+        "id": 31892155,
+        "type": "quotes",
+        "title": "美元指数",
+        "symbol": "DXY.NYF",
+        "content": "请升级APP后查看"
+      },
+      {
+        "id": 98025023,
+        "link": "https://www.safe.gov.cn/safe/2025/0306/25834.html",
+        "type": "link",
+        "title": "相关链接"
+      }
+    ]
+  },
+  {
+    "id": "20250307160609593800",
+    "time": "2025-03-07 16:06:09",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "据国际文传电讯社援引哈萨克斯坦国家石油运输商KazTransOil的消息称，哈萨克斯坦在2月份通过“友谊”管道向德国运输了10万吨石油。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160506323800",
+    "time": "2025-03-07 16:05:06",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": null,
+      "source": null,
+      "content": "斯里兰卡财政部官员：与日本达成协议，重组约25亿美元的现有债务。",
+      "source_link": null
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160409212800",
+    "time": "2025-03-07 16:04:09",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "斯里兰卡财政部长官员：斯里兰卡正在与其他16个官方债权国委员会成员继续进行谈判。正在尽快完成所有债务重组。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160323590800",
+    "time": "2025-03-07 16:03:23",
+    "type": 2,
+    "data": {
+      "pic": "https://img.jin10.com/gallary/9cabca55-13d4-4f2f-81c7-8e468f0e6c94.png/lite",
+      "tag": "精选分析",
+      "link": "https://xnews.jin10.com/details/166295",
+      "title": "非农携手鲍威尔，美股今晚迎来“大考”！",
+      "source": "",
+      "content": "分析师表示，非农报告可能揭示经济蓝图的另一块拼图，但他警告，数据若弱于预期，恐引发市场恐慌。 点击查看…",
+      "source_link": ""
+    },
+    "important": 1,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160241746800",
+    "time": "2025-03-07 16:02:41",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "中国央行：中国2月末外汇储备报32272.2亿美元，环比增加181.84亿美元。",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      1,
+      2,
+      3
+    ],
+    "remark": []
+  },
+  {
+    "id": "20250307160237913800",
+    "time": "2025-03-07 16:02:37",
+    "type": 0,
+    "data": {
+      "pic": "",
+      "title": "",
+      "source": "",
+      "content": "【亚欧盘黄金分析中】特朗普关税豁免游戏搅动市场风云，黄金震荡过后何去何从？金十研究员高阳正在直播分析，点击进入直播间<font class=\"important-text\"></font>",
+      "source_link": ""
+    },
+    "important": 0,
+    "tags": [],
+    "channel": [
+      5
+    ],
+    "remark": [
+      {
+        "id": 1024,
+        "link": "https://tv.jin10.com/#/gamma",
+        "type": "link",
+        "title": "相关链接"
+      }
+    ]
+  }
+]
