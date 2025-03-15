@@ -35,6 +35,29 @@ def generate_index_html():
             color: #2c3e50;
             margin-bottom: 30px;
         }
+        .header-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .layout-toggle {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        .layout-toggle:hover {
+            background: #2980b9;
+        }
         .container {
             display: flex;
             flex-wrap: wrap;
@@ -42,6 +65,10 @@ def generate_index_html():
             justify-content: center;
             max-width: 1200px;
             margin: 0 auto;
+            transition: all 0.3s ease;
+        }
+        .single-column .card {
+            width: 800px;
         }
         .card {
             background: white;
@@ -49,7 +76,7 @@ def generate_index_html():
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             overflow: hidden;
             width: 400px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, width 0.3s ease;
         }
         .card:hover {
             transform: translateY(-5px);
@@ -87,13 +114,33 @@ def generate_index_html():
     </style>
 </head>
 <body>
-    <h1>Web Study 导航页</h1>
-    <div class="container">
+    <div class="header-container">
+        <h1>Web Study 导航页</h1>
+        <button class="layout-toggle" id="layoutToggle">切换为单列布局</button>
+    </div>
+    <div class="container" id="container">
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const container = document.getElementById('container');
+            const layoutToggle = document.getElementById('layoutToggle');
+            
+            layoutToggle.addEventListener('click', function() {
+                container.classList.toggle('single-column');
+                if (container.classList.contains('single-column')) {
+                    layoutToggle.textContent = '切换为双列布局';
+                } else {
+                    layoutToggle.textContent = '切换为单列布局';
+                }
+            });
+        });
+    </script>
 '''
 
     # 遍历目录获取HTML文件
     html_files = [f for f in os.listdir('.') if f.endswith('.html') and f != 'index.html']
     html_files.sort()
+    print(html_files)
 
     # 生成卡片内容
     cards = []
