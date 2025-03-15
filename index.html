@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Study 导航页</title>
+    <style>
+        body {
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            width: 80%;
+            margin: 0 auto;
+        }
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+            width: 100%;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .card-title {
+            background: #3498db;
+            color: white;
+            padding: 15px;
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .card-content {
+            padding: 15px;
+        }
+        .preview-frame {
+            width: 100%;
+            height: 300px;
+            border: none;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .card-link {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+        }
+        .card-link:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Web Study 导航页</h1>
+    <div class="container">
+
+        <div class="card">
+            <h2 class="card-title">web demo (250301-0102.html)</h2>
+            <div class="card-content">
+                <iframe src="250301-0102.html" class="preview-frame"></iframe>
+                <a href="250301-0102.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">伟大的科学家-袁隆平 (250301-0103.html)</h2>
+            <div class="card-content">
+                <iframe src="250301-0103.html" class="preview-frame"></iframe>
+                <a href="250301-0103.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">电商页面 (250307-0104.html)</h2>
+            <div class="card-content">
+                <iframe src="250307-0104.html" class="preview-frame"></iframe>
+                <a href="250307-0104.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">向日葵 (250308-0105.html)</h2>
+            <div class="card-content">
+                <iframe src="250308-0105.html" class="preview-frame"></iframe>
+                <a href="250308-0105.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">Document (250312-0201.html)</h2>
+            <div class="card-content">
+                <iframe src="250312-0201.html" class="preview-frame"></iframe>
+                <a href="250312-0201.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 class="card-title">Document (250315-0202.html)</h2>
+            <div class="card-content">
+                <iframe src="250315-0202.html" class="preview-frame"></iframe>
+                <a href="250315-0202.html" class="card-link" target="_blank">在新窗口打开</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
