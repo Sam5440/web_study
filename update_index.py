@@ -139,7 +139,9 @@ def generate_index_html():
 
     # 遍历目录获取HTML文件
     html_files = [f for f in os.listdir('.') if f.endswith('.html') and f != 'index.html']
-    html_files.sort()
+    # sort逆序
+    # html_files.sort()
+    html_files.sort(reverse=True)
     print(html_files)
 
     # 生成卡片内容
