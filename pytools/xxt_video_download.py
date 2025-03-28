@@ -176,6 +176,7 @@ class VideoDownloaderApp:
                     if size < 1024.0 or unit == 'GB':
                         break
                     size /= 1024.0
+                # 确保unit变量一定有值
                 return f"{size:.2f} {unit}"
             
             # 格式化速度显示
