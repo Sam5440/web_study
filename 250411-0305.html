@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>相框</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+        }
+
+        .wai {
+            width: 700px;
+            height: 347px;
+            background-image: linear-gradient(90deg, #abc6de 50%, #b0d4aa 50%);
+            border-style: solid;
+            border-image: url(/images/250411/3-5-2.jpg) 22%/40px repeat;
+            padding: 38px 0;
+            box-shadow: 3px 3px 8px 2px #999;
+        }
+
+        .nei {
+            width: 100%;
+            height: 100%;
+            background: url(/images/250411/3-5-1.png) center center no-repeat;
+            opacity: 0.8;
+            background-size: contain;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wai">
+        <div class="nei"></div>
+    </div>
+</body>
+
+</html>
