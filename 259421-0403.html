@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>行程定位</title>
+    <style>
+        body {
+            font-family: "微软雅黑", sans-serif;
+            padding: 0;
+            margin: 0;
+        }
+
+        p,
+        h1,
+        img {
+            padding: 0;
+            margin: 0;
+            outline: none;
+            border: 0;
+        }
+
+        a {
+            display: block;
+            text-decoration: none;
+        }
+
+        .all {
+            width: 603px;
+            height: 400px;
+            margin: 20px auto;
+            background: #1E2D3B;
+            padding-right: 70px;
+            overflow: hidden;
+        }
+
+        .left {
+            width: 332px;
+            height: 400px;
+            background: url(./images/250421/2.png) no-repeat 70px top;
+            float: left;
+            position: relative;
+        }
+
+        .one,
+        .two,
+        .three,
+        .four {
+            position: absolute;
+            background-repeat: no-repeat;
+        }
+
+        .one {
+            width: 158px;
+            height: 177px;
+            background-image: url(./images/250421/3.png);
+            left: 6px;
+            top: 130px;
+        }
+
+        .two {
+            width: 98px;
+            height: 106px;
+            background-image: url(./images/250421/6.png);
+            left: 233px;
+            top: 130px;
+        }
+
+        .three {
+            width: 98px;
+            height: 106px;
+            background-image: url(./images/250421/6.png);
+            left: 120px;
+            top: 60px;
+        }
+
+        .four {
+            width: 45px;
+            height: 50px;
+            background-image: url(./images/250421/8.png);
+            background-position: center center;
+            background-size: contain;
+            left: 232px;
+            top: 8px;
+        }
+
+        .one:hover {
+            width: 158px;
+            height: 177px;
+            background-image: url(./images/250421/5.png);
+        }
+
+        .two:hover {
+            background-image: url(./images/250421/4.png);
+        }
+
+        .three:hover {
+            background-image: url(./images/250421/9.png);
+        }
+
+        .four:hover {
+            width: 100px;
+            height: 110px;
+            background-image: url(./images/250421/1.png);
+            background-position: center center;
+            background-size: cover;
+        }
+
+        .right {
+            width: 224px;
+            height: 340px;
+            float: left;
+            padding-top: 60px;
+            font-style: italic;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .right h1 {
+            font-size: 88px;
+            color: #3f9ade;
+            line-height: 1;
+        }
+
+        .right p {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .right img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="all">
+        <div class="left">
+            <a href="#" class="one" title="Icon 1"></a>
+            <a href="#" class="two" title="Icon 2"></a>
+            <a href="#" class="three" title="Icon 3"></a>
+            <a href="#" class="four" title="Icon 4"></a>
+        </div>
+        <div class="right">
+            <h1>定位</h1>
+            <p>及时、迅速、精准、便捷</p>
+            <img src="./images/250421/7.png" alt="Car illustration">
+        </div>
+    </div>
+</body>
+
+</html>
