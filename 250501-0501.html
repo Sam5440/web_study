@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>简历表</title>
+    <style>
+        body {
+            font-family: 'SimSun', 'Microsoft YaHei', sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .resume-table {
+            width: 700px;
+            border-collapse: collapse;
+            border: 1px solid #ccc;
+            margin: 20px auto;
+        }
+        .resume-table th,
+        .resume-table td {
+            border: 1px solid #ccc;
+            padding: 8px 10px;
+            vertical-align: middle;
+            height: 25px;
+        }
+        .resume-table .title-header {
+            background-color: #f2f2f2;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.2em;
+            padding: 12px 10px;
+        }
+        .resume-table .label {
+            text-align: center;
+            width: 15%;
+            background-color: #fafafa;
+        }
+        .resume-table .input-field {
+             width: 20%;
+        }
+         .resume-table .photo-cell {
+            width: 30%;
+            text-align: center;
+            vertical-align: middle;
+            font-weight: bold;
+         }
+    </style>
+</head>
+<body>
+
+<table class="resume-table">
+    <thead>
+        <tr>
+            <th colspan="5" class="title-header">简历表</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="label">姓名</td>
+            <td class="input-field"></td>
+            <td class="label">民族</td>
+            <td class="input-field"></td>
+            <td class="photo-cell" rowspan="5">照片</td>
+        </tr>
+        <tr>
+            <td class="label">籍贯</td>
+            <td class="input-field"></td>
+            <td class="label">身高</td>
+            <td class="input-field"></td>
+        </tr>
+        <tr>
+            <td class="label">婚姻状况</td>
+            <td class="input-field"></td>
+            <td class="label">电子邮件</td>
+            <td class="input-field"></td>
+        </tr>
+        <tr>
+            <td class="label">联系电话</td>
+            <td class="input-field"></td>
+            <td class="label">QQ号码</td>
+            <td class="input-field"></td>
+        </tr>
+        <tr>
+            <td class="label">出生年月</td>
+            <td class="input-field"></td>
+            <td class="label">国籍</td>
+            <td class="input-field"></td>
+        </tr>
+        <tr>
+            <td class="label">目前所在地</td>
+            <td class="input-field" colspan="4"></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

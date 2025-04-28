@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>弹性布局导航</title>
+    <style>
+        body {
+            background: #f0f0f0; /* Changed background for better visibility */
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+        }
+        .nav-group {
+            width: 700px;
+            margin: 60px auto;
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+        }
+        .nav-row {
+            display: flex;
+            border-radius: 18px;
+            overflow: hidden; /* Ensures inner items conform to rounded corners */
+            height: 110px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Added subtle shadow */
+        }
+        .nav-row-red {
+            background: #ff7f7f;
+        }
+        .nav-row-blue {
+            background: #4a9cff;
+        }
+        .nav-row-green {
+            background: #4fc16e;
+        }
+        .nav-left {
+            flex: 1.2; /* Adjusted flex ratio */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            font-weight: bold;
+            color: #fff;
+            /* background: transparent; */ /* Background is inherited from parent */
+        }
+        .nav-right {
+            flex: 3; /* Adjusted flex ratio */
+            display: flex;
+            flex-wrap: wrap;
+            /* align-items: stretch; */ /* align-content controls spacing between lines */
+            align-content: stretch; /* Stretch lines to fill height */
+            /* background: transparent; */ /* Background is inherited from parent */
+        }
+        .nav-item {
+            flex: 1 1 50%; /* Grow, shrink, basis 50% -> 2 items per row */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 22px;
+            color: #fff;
+            background: rgba(255,255,255,0.08);
+            box-sizing: border-box; /* Include border in size */
+            border-right: 1px solid rgba(255, 255, 255, 0.2); /* Vertical line */
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Horizontal line */
+        }
+
+        /* Remove border from items on the right edge */
+        .nav-right .nav-item:nth-child(2n) {
+            border-right: none;
+        }
+
+        /* Remove border from items on the bottom edge */
+        .nav-right .nav-item:nth-child(3),
+        .nav-right .nav-item:nth-child(4) {
+            border-bottom: none;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 800px) {
+            .nav-group {
+                width: 95vw; /* Use viewport width */
+                margin: 30px auto;
+            }
+            .nav-row {
+                height: 90px; /* Adjust height */
+                border-radius: 12px;
+            }
+            .nav-left {
+                font-size: 24px; /* Adjust font size */
+            }
+            .nav-item {
+                font-size: 18px; /* Adjust font size */
+            }
+        }
+         @media (max-width: 480px) {
+             .nav-left {
+                font-size: 20px; /* Further adjust font size */
+            }
+            .nav-item {
+                font-size: 16px; /* Further adjust font size */
+            }
+         }
+    </style>
+</head>
+<body>
+    <div class="nav-group">
+        <!-- Red Row -->
+        <div class="nav-row nav-row-red">
+            <div class="nav-left">酒店</div>
+            <div class="nav-right">
+                <div class="nav-item">特价酒店</div>
+                <div class="nav-item">优惠团购</div>
+                <div class="nav-item">精选美食</div>
+                <div class="nav-item">精品民宿</div>
+            </div>
+        </div>
+
+        <!-- Blue Row -->
+        <div class="nav-row nav-row-blue">
+            <div class="nav-left">酒店</div>
+            <div class="nav-right">
+                <div class="nav-item">特价酒店</div>
+                <div class="nav-item">优惠团购</div>
+                <div class="nav-item">精选美食</div>
+                <div class="nav-item">精品民宿</div>
+            </div>
+        </div>
+
+        <!-- Green Row -->
+        <div class="nav-row nav-row-green">
+            <div class="nav-left">酒店</div>
+            <div class="nav-right">
+                <div class="nav-item">特价酒店</div>
+                <div class="nav-item">优惠团购</div>
+                <div class="nav-item">精选美食</div>
+                <div class="nav-item">精品民宿</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

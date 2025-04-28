@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信息登记表</title>
+    <style>
+        /*全局控制*/
+        body{
+            font-size:12px;
+            font-family:"微软雅黑";
+        }
+        /*重置浏览器的默认样式*/
+        body,form,input,h1,p{
+            padding:0;
+            margin:0;
+            border:0;
+            color:#1482dc;
+        }
+        /*整体控制界面*/
+       .bg{
+            width:1431px;
+            position:relative;
+            height:717px;
+            background:url(./images/250501/0503.png) no-repeat;
+        }
+        /*整体控制表单*/
+        form{
+            width:600px;
+            height:400px;
+            margin:50px auto;
+            padding-left:1000px;
+            padding-top: 50px;
+            position:absolute;
+            left:488;
+            top:10;
+        }
+        /*制作标题部分text-align:left;*/
+        h2{
+            padding-left:120px;
+            margin:16px 0;
+        }
+        /*整体控制每行信息*/
+        p{
+            margin-top:20px;
+        }
+        /*控制左边的提示信息*/
+        p span{
+            width:75px;
+            display:inline-block;
+            text-align:right;
+            padding-right:10px;
+        }
+        /*控制右边的表单控件*/
+        p input{
+            height:18px;
+            width:200px;
+            border:1px solid #bdbfd0;
+            padding:2px;
+        }
+       .lucky input{
+            width:100px;
+            height:24px;
+        }
+        /*控制下方的两个按钮*/
+       .btn input{
+            width:100px;
+            height:30px;
+            background:#6d76c4;
+            margin-top:20px;
+            margin-left:75px;
+            border-radius:3px;
+            font-size:18px;
+            font-family:"微软雅黑";
+            color:#eff1eb;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg">
+        <form action="" method="get" autocomplete="off">
+            <h2>信息登记表</h2>
+            <p><span>真实姓名:</span><input type="text" name="real_name" pattern="[\u4e00-\u9fa5]{0,}$" placeholder="例如:王明" required autofocus/></p>
+            <p><span>接收邮箱:</span><input type="text" name="user_name" value="myemail@163.com" disabled readonly/></p>
+            <p><span>出生日期:</span><input type="date" name="birthday" value="1990-10-1" required/></p>
+            <p><span>真实年龄:</span><input type="number" name="real_age" value="24" min="1" max="120" required/></p>
+            <p><span>电子邮箱:</span><input type="email" name="myemail" placeholder="123456@126.com" required multiple/></p>
+            <p><span>身份证号:</span><input type="text" name="card" required pattern="\d{8,18}|[0-9x]{8,18}|[(0-9x]{8,18}?"/></p>
+            <p><span>手机号码:</span><input type="tel" name="telphone" pattern="\d{11}$" required/></p>
+            <p><span>个人主页:</span><input type="url" name="myurl" list="urllist" placeholder="http://www.xxx.com" pattern="(http|https):\/\/([\w-]+\.)+[\w-]+(/[\w-./?&=]*?$)"/></p>
+            <datalist id="urllist">
+                <option>http://www.aaaaa.com</option>
+                <option>http://www.bbbb.bb</option>
+                <option>http://www.ccccc.n</option>
+            </datalist>
+            <p class="lucky"><span>幸运颜色:</span><input type="color" name="lovecolor" value="#fed000"/></p>
+            <p class="btn">
+                <input type="submit" value="提交"/>
+                <input type="reset" value="重置"/>
+            </p>
+        </form>
+    </div>
+</body>
+</html>

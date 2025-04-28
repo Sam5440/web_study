@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>浮动布局网页</title>
+    <style>
+        div {
+            width: 980px;
+            margin: 0 auto;
+        }
+        #header {
+            height: 40px;
+            background: url(./images/250427/top.png);
+        }
+        #nav {
+            height: 60px;
+            background: url(./images/250427/nav.png);
+        }
+        #banner {
+            height: 200px;
+            background: url(./images/250427/banner.png);
+        }
+        #footer {
+            height: 90px;
+            background: url(./images/250427/fot.png);
+            margin-top: 280px;
+        }
+       .content_left {
+            width: 200px;
+            background: url(./images/250427/img1.png);
+            height: 300px;
+            float: left;
+        }
+       .content_center {
+            width: 570px;
+            background: url(./images/250427/img6.png);
+            height: 300px;
+            float: left;
+        }
+       .content_right {
+            width: 200px;
+            background: url(./images/250427/img3.png);
+            height: 300px;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <div id="header"></div>
+    <div id="nav"></div>
+    <div id="banner"></div>
+    <div id="content">
+        <div class="content_left"></div>
+        <div class="content_center"></div>
+        <div class="content_right"></div>
+    </div>
+    <div id="footer"></div>
+</body>
+</html>
